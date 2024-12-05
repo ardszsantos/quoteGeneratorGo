@@ -25,11 +25,11 @@ type Response struct {
 var (
 	substantivos = []string{"banano pível", "the xesque", "koskóvos", "ralubo", "xampu", "goflo", "afafué",
 		"BORBO DUPLO", "calabreso", "googlepax", "apapua", "djó", "xepé", "spage spé", "pagai", "jope", "mijoto", "mejoto", "todo", "golo", "melontedonpeps", "xerecs", "bananotifane",
-		"bananolove", "cebruntius", "ralugbo", "nobiru", "ralube", "todes", "redonde", "molom", "chiq", "chambs", "pope", "popGG", "rodimunosc", "mussum", "flope", "blog", "glup", "poulos",
+		"bananolove", "cebruntius", "ralugbo", "nobiru", "Equu", "ralube", "Prou", "todes", "redonde", "molom", "chiq", "chambs", "pope", "popGG", "rodimunosc", "mussum", "flope", "blog", "glup", "poulos",
 		"papadopoulos", "poiés", "péu"}
 	verbos = []string{"explodir", "voar", "gozar", "correr", "chorar", "moggar", "bolar", "goflar", "xoflar", "flambar", "melar", "blogar", "chepar", "negoçar", "calabrear", "rebuliçar",
-		"malhar", "molhar", "biskinhar", "biskinhando", "biskinhou", "bater", "piPoLutou"}
-	adjetivos = []string{"goploso", "famoso", "usado", "horrível", "épico", "delício", "Ovo-cuzudo", "kanye west", "cabeça de rádio", "mulher homem", "redondo", "circular", "bolotoso",
+		"malhar", "Rapear", "molhar", "biskinhar", "Janbular", "Tar", "biskinhando", "biskinhou", "bater", "piPoLutou"}
+	adjetivos = []string{"goploso", "Doroso", "Garico", "famoso", "usado", "horrível", "Fuzul", "épico", "delício", "Ovo-cuzudo", "kanye west", "cabeça de rádio", "mulher homem", "redondo", "circular", "bolotoso",
 		"Made in Ovo", "Jojo Piculo", "Danonésio", "neutre", "redonde", "bolotose"}
 	lugares = []string{"no banheiro", "na cozinha", "na lua", "no shopping", "em Hogwarts", "no borBolhão", "no buzão topzera", "na casa do cabrunco", "em roney", "na Chiquelândia",
 		"nas rotas apicuarias", "no corre do queijo", "na ruto", "no obelisco total", "no obelisco vip", "na bolotona", "no bolotão", "no privacy do playboy carti", "no cu de todes"}
