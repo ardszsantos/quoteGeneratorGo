@@ -114,7 +114,7 @@ func generateQuote() Quote {
 
 	return Quote{
 		ID:     rand.Intn(1000),
-		Author: "Gerador Desconexo",
+		Author: "Jolhambão",
 		Text:   replacer.Replace(template),
 	}
 }
